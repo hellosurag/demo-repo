@@ -19,3 +19,5 @@ A data catalog first connects with datasets in an organization. Datasets are _fi
 ###### Usage of AI and Machine Learning(ML)
 
 AI and ML can be used for collection of metadata and semantic inference and tagging.
+[Learn more](www.alation.com)
+
