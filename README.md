@@ -28,6 +28,14 @@ According to Gartner,
 >  “A data catalog maintains an inventory of data assets through the discovery, description, and organization of datasets.
 > 
 > The catalog provides context to enable data analysts, data scientists, data stewards, and other data consumers to find and understand a relevant dataset for the purpose of extracting business value.”
+## Products from Alation
+Following are the products from Alation:
+* Data Catalog
+* Data Governance
+* Data Lineage
+* Compose
+* Alation Anywhere
+* Alation Analytics
 
 
 
