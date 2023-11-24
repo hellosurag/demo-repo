@@ -42,6 +42,14 @@ Following is the process of setting up the data source:
 2. Provide a title
 3. Assign data source admins
 
+#### The Apps icon
+* Compose
+* Glossaries
+* Curate
+  * Steward Dashboard
+  * Curation Progress
+
+
 
 
 
