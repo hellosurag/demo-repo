@@ -36,6 +36,12 @@ Following are the products from Alation:
 * Compose
 * Alation Anywhere
 * Alation Analytics
+### Setting up the data source
+Following is the process of setting up the data source:
+1. Add a data source
+2. Provide a title
+3. Assign data source admins
+
 
 
 
