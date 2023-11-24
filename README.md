@@ -24,6 +24,7 @@ That was the article from Alation.
 ![Alation logo](https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg)
 
 ![Alation logo][Alation]
+
 [Alation]: https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg
 
 
