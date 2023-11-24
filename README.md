@@ -23,9 +23,9 @@ AI and ML can be used for collection of metadata and semantic inference and tagg
 That was the article from Alation.
 ![Alation logo](https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg)
 
-![Alation logo][Alation]
-
-[Alation]: https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg
+# What is an enterprise data catalog
+According to Gartner,
+>  “A data catalog maintains an inventory of data assets through the discovery, description, and organization of datasets. The catalog provides context to enable data analysts, data scientists, data stewards, and other data consumers to find and understand a relevant dataset for the purpose of extracting business value.”
 
 
 
