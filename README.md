@@ -20,8 +20,8 @@ A data catalog first connects with datasets in an organization. Datasets are _fi
 
 AI and ML can be used for collection of metadata and semantic inference and tagging.
 [Learn more](https://www.alation.com/blog/what-is-a-data-catalog/)
-[Learn further](www.google.com)
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+That was the article from Alation.
 ![Alation logo](https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg)
+
 
 
