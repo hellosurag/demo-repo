@@ -14,13 +14,13 @@ Metadata consists of labels or markers that provides more information about the 
 
 ##### Exploring data catalog
 
-A data catalog first connects with datasets in an organization. Datasets are _files_ and _tables_ containing data.They may reide in databases, data warehouses, datalakes, or any shared data resource.
+A data catalog first connects with datasets in an organization. Datasets are _files_ and _tables_ containing data.They may reside in databases, data warehouses, datalakes, or any shared data resource.
 
 ###### Usage of AI and Machine Learning(ML)
 
 AI and ML can be used for collection of metadata and semantic inference and tagging.
 [Learn more](https://www.alation.com/blog/what-is-a-data-catalog/)
-That was the article from Alation.
+~~That was the article from Alation.~~
 ![Alation logo](https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg)
 
 # What is an enterprise data catalog
