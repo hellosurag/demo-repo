@@ -22,8 +22,9 @@ AI and ML can be used for collection of metadata and semantic inference and tagg
 [Learn more](https://www.alation.com/blog/what-is-a-data-catalog/)
 That was the article from Alation.
 ![Alation logo](https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg)
+
 ![Alation logo][Alation]
-Alation: https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg
+[Alation]: https://images.ctfassets.net/7p3vnbbznfiw/DaYotF2SA4HGjbtknD8tA/016a726507e2cd13ce5a09b89aaf2441/Primary-Logo.svg
 
 
 
